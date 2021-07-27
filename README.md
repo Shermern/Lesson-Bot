@@ -30,6 +30,6 @@ chromedriver_location in line 5 with the path of your chromedriver that you had 
 username and password in lines 7 and 8
 required months (line 15),sessions (line 19) days (line 23), and slots (line 25). These are all lists that contain all of the various options that you see in the UI, with elements in chronological order (first month is months[0], second is months[1], etc.)
 
-##Trouble Shooting:
+## Trouble Shooting:
  1. If error code comes up, try typing the error code into google to find out whats wrong
  2. If code does not work as advertised, just ask me lol
