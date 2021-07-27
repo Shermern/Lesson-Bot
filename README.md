@@ -6,7 +6,7 @@ How it works:
 - To continue to look for and book slots, you will have to re-run the programme.
 - The programme can run in the background while you do other things with you computer/leave on idle
 
-##Prerequisites:
+## Prerequisites:
 
 You will have to download/install the following:
 
@@ -14,7 +14,7 @@ You will have to download/install the following:
 2. Chromedriver https://chromedriver.chromium.org/downloads
 3. Python 
 
-##Config:
+## Config:
 
 Open the bbdc_bot.py file with your favourite IDE and change these following lines of code:
 
