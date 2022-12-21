@@ -1,4 +1,4 @@
-# BBDC
+# Automated Lesson Booking Bot (Bukit Batok Driving Center)
 
 ## How it works:
 - The bot will login and refresh the booking page until a slot is found.
