@@ -1,5 +1,9 @@
 # Automated Lesson Booking Bot (Bukit Batok Driving Center)
 
+This was a small project born from the frustration of the lack of driving lesson slots. This is a very simple web-scraping bot that utilizes Selenium.
+This probably won't work properly anymore due to changes to the lesson booking website for BBDC, and will require some changes.
+
+
 ## How it works:
 - The bot will login and refresh the booking page until a slot is found.
 - When a slot is found and booked, your computer will make a sound.
@@ -29,7 +33,3 @@ Open the bbdc_bot.py file with your favourite IDE and change these following lin
 chromedriver_location in line 5 with the path of your chromedriver that you had downloaded
 username and password in lines 7 and 8
 required months (line 15),sessions (line 19) days (line 23), and slots (line 25). These are all lists that contain all of the various options that you see in the UI, with elements in chronological order (first month is months[0], second is months[1], etc.)
-
-## Trouble Shooting:
- 1. If error code comes up, try typing the error code into google to find out whats wrong
- 2. If code does not work as advertised, just ask me lol
